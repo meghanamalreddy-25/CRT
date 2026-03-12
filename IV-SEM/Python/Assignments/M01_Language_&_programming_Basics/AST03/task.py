@@ -1,5 +1,6 @@
 import math
 def Student_Grade_System(name:str,n1: int,n2: int,n3: int) -> str:
+    #task
     A = (n1 + n2 + n3) / 3
     if A >= 40:
         return f"Average grade: {A:.1f}, Status: Pass"
