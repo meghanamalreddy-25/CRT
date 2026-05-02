@@ -12,7 +12,7 @@ print(a.union(b))
 print(a.intersection(b))
 print(a.difference(b))'''
 
-t=[1,2,3,45,50]
+'''t=[1,2,3,45,50]
 t[0]=10
 print(t[0])
 
@@ -36,4 +36,4 @@ t=(1,2,3,45,50)
 del t
 print(t)
 
-d={"name":"meghana","age"}
+d={"name":"meghana","age"}'''
