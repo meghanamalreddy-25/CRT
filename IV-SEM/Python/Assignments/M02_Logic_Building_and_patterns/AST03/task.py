@@ -1,5 +1,5 @@
 def sum_of_digits(n: int) -> int:
-    #task
+    # task
     total = 0
     while n > 0:
         digit = n % 10

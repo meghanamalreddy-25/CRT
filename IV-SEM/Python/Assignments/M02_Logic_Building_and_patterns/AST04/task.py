@@ -1,5 +1,5 @@
 def right_triangle(n: int) -> str:
-    #task
+    # task
     res=""
     for i in range(n):
         for j in range(i+1):

@@ -1,8 +1,9 @@
 def even_odd(n: int) -> str:
-    #task
+    # task
    if n%2!=0:
        return "Weird"
    else:
+       
        if n>=2 and n<=5:
            return "Not Weird"
        elif n>=6 and n<=20:

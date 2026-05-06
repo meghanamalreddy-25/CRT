@@ -1,5 +1,5 @@
 def count_digits(n: int) -> int:
-    #task
+    # task
     count = 0
     while n > 0:
         n //= 10

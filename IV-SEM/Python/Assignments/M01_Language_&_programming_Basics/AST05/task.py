@@ -2,7 +2,7 @@ from typing import List
 
 
 def Collatz_Sequence(n: int)-> List:
-   #task
+   # task
    
    from typing import List
 
