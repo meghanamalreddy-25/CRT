@@ -1,6 +1,5 @@
 def Ticket_Pricing(n: int) -> int:
    # task
-   
    if n < 5:
       return 0
    elif 5 <= n <= 17:
@@ -13,5 +12,5 @@ def Ticket_Pricing(n: int) -> int:
 
 
 if __name__ == '__main__':
-    n = int(input())
-    print(Ticket_Pricing(n))
+   n = int(input())
+   print(Ticket_Pricing(n))
